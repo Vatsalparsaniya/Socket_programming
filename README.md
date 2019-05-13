@@ -1,5 +1,9 @@
 ## LAB FILE
 [Computer-Network File](https://sway.office.com/UqzBFLlpCoyEc6bh?ref=Link)
+
+<img src="file.PNG"
+     alt="file.png"
+     style="float: left; margin-right: 10px;" />
 # Socket_programming
 Computer Network Lab
   ## Cyclic redundancy check
